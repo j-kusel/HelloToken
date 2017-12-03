@@ -12,6 +12,8 @@
   "author": "Jordan Kusel",
   "license": "Unlicense",
   "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
     "jquery": "^3.2.1"
   }
 }
