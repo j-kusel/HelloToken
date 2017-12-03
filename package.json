@@ -1,0 +1,17 @@
+{
+  "name": "HelloToken",
+  "version": "1.0.0",
+  "description": "a basic Ethereum-based token distribution layer with web3 frontend",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "author": "Jordan Kusel",
+  "license": "Unlicense",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
